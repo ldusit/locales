@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="th-TH">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2012-09-26T09:40:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -22,7 +22,7 @@
     <term name="anonymous">นิรนาม</term>
     <term name="anonymous" form="short">นิรนาม</term>
     <term name="at">ที่</term>
-    <term name="available at">available at</term>
+    <term name="available at">เข้าถึงได้จาก</term>
     <term name="by">โดย</term>
     <term name="circa">โดยประมาณ</term>
     <term name="circa" form="short">ประมาณ</term>
@@ -54,8 +54,8 @@
       <multiple>อ้างอิง</multiple>
     </term>
     <term name="retrieved">สืบค้น</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">มาตราส่วน</term>
+    <term name="version">รุ่น</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">ค.ศ.</term>
@@ -109,8 +109,8 @@
       <multiple>ฉบับที่</multiple>
     </term>
     <term name="line">
-      <single>บรรทัดที่</single>
-      <multiple>บรรทัดที่</multiple>
+      <single>บรรทัด</single>
+      <multiple>บรรทัด</multiple>
     </term>
     <term name="note">
       <single>บันทึก</single>
@@ -156,8 +156,8 @@
     <term name="figure" form="short">รูปภาพ</term>
     <term name="folio" form="short">หน้า</term>
     <term name="issue" form="short">ฉบับที่</term>
-    <term name="line" form="short">l.</term>
-    <term name="note" form="short">n.</term>
+    <term name="line" form="short">บรรทัด</term>
+    <term name="note" form="short">บันทึก</term>
     <term name="opus" form="short">บทประพันธ์</term>
     <term name="page" form="short">
       <single>น.</single>
@@ -191,8 +191,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>ผู้อำนวยการ</single>
+      <multiple>ผู้อำนวยการ</multiple>
     </term>
     <term name="editor">
       <single>บรรณาธิการ</single>
@@ -203,8 +203,8 @@
       <multiple>ผู้อำนวยการบทบรรณาธิการ</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>นักวาดภาพประกอบ</single>
+      <multiple>นักวาดภาพประกอบ</multiple>
     </term>
     <term name="translator">
       <single>ผู้แปล</single>
@@ -217,8 +217,8 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>ผอ.</single>
+      <multiple>ผอ.</multiple>
     </term>
     <term name="editor" form="short">
       <single>บ.ก.</single>
@@ -229,8 +229,8 @@
       <multiple>ผอ.บทบรรณาธิการ</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>นักวาดภาพประกอบ</single>
+      <multiple>นักวาดภาพประกอบ</multiple>
     </term>
     <term name="translator" form="short">
       <single>ผู้แปล</single>
@@ -242,24 +242,24 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">อำนวยการโดย</term>
     <term name="editor" form="verb">เรียบเรียงโดย</term>
-    <term name="editorial-director" form="verb">เรียบเรียงโดย</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="editorial-director" form="verb">อำนวยการเรียบเรียงโดย</term>
+    <term name="illustrator" form="verb">วาดภาพประกอบโดย</term>
     <term name="interviewer" form="verb">สัมภาษณ์โดย</term>
     <term name="recipient" form="verb">ถึง</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">โดย</term>
     <term name="translator" form="verb">แปลโดย</term>
     <term name="editortranslator" form="verb">แปลและเรียบเรียงโดย</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">โดย</term>
-    <term name="director" form="verb-short">dir.</term>
-    <term name="editor" form="verb-short">โดย</term>
-    <term name="editorial-director" form="verb-short">โดย</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="director" form="verb-short">อำนวยการ</term>
+    <term name="editor" form="verb-short">ผอ.</term>
+    <term name="editorial-director" form="verb-short">ผอ.</term>
+    <term name="illustrator" form="verb-short">วาดภาพ</term>
     <term name="translator" form="verb-short">แปล</term>
-    <term name="editortranslator" form="verb-short">แปลและเรียบเรียงโดย</term>
+    <term name="editortranslator" form="verb-short">แปลและเรียบเรียง</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">มกราคม</term>
